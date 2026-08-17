@@ -253,7 +253,7 @@ InterviewIQ/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Sanskritysingh24/InterviewIQ.git
+git clone https://github.com/Vanshrekhi/InterviewAgent
 cd InterviewIQ
 ```
 
